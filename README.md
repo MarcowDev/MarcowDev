@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcos Henrique Silva, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino médio no HENFIL, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ANHANGUERA. Sou apaixonado por tecnologia, e videogames. 
+Me chamo Marcos Henrique Silva, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino médio no HENFIL, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ANHANGUERA. Sou apaixonado por tecnologia, e videogames. Tenho um canal no youtube onde gravo react, e tambem gosto de jogar em live.
 
 <p align="left">
     <a href="https://www.youtube.com/@Marcaootv?sub-confirmation=1">
